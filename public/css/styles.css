@@ -1,0 +1,65 @@
+
+.btn-h1-spacing {
+	margin-top: 18px;
+}
+
+.form-spacing-top {
+
+	margin-top: 30px;
+}
+
+.comment {
+	margin-bottom: 40px;
+}
+.author-image-content {
+	height: 50px;
+	width:50px;
+	border-radius: 50px;
+	overflow: hidden;
+	float: left;
+	
+	
+}
+
+
+.author-image {
+	height: 100%;
+	width: 100%;
+}
+
+.author-name {
+	float: left;
+	margin-left: 15px;
+}
+
+.author-name>h4 {
+	margin: 5px;
+
+}
+
+.author-name>p:hover {
+	color: red;
+	cursor: pointer;
+
+}
+
+.author-time {
+	font-size: 11px;
+	font-style: italic;
+	color: #BC8F8F;
+}
+.comment-content {
+	clear: both;
+	margin-left: 65px;
+	font-size: 16px;
+	line-height: 1.3em;
+}
+
+.comment-title {
+	margin-bottom: 30px;
+}
+
+.comment-title>span {
+
+	margin-right: 15px;
+}
